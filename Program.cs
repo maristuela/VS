@@ -10,6 +10,8 @@ class Universitet
     private string student3 = "Пётр";
     private string student4 = "Валерия";
     private string student5 = "Фёдор";
+    private string student4 = "Валерия";
+    private string student5 = "Фёдор";
 
     // Метод для внесения денег на счет
     public void Plus(int name, int number)
